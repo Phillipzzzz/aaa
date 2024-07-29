@@ -242,37 +242,31 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 http://148.135.93.213:81/PLTV/bestv.php?id=cctv16hd4k/15000000
 
 
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c68d2b19b.jpg",CCTV1 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",CCTV2 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c68d1dad7.jpg",CCTV3 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c6d9a7e8c.jpg",CCTV4 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c6d9bd7d0.jpg",CCTV5 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="https://www.hualigs.cn/image/6153c6d99c62a.jpg",CCTV5+ 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/1.m3u8
-#EXTINF:-1 group-title="50FPS五十帧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17 50FPS
-http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/1.m3u8
+#EXTINF:-1 group-title="WZYTV",CCTV-1综合
+http://tv.cnbeijing.xyz/tvnx.php?id=001
+#EXTINF:-1 group-title="WZYTV",CCTV-2财经
+http://tv.cnbeijing.xyz/tvnx.php?id=002
+#EXTINF:-1 group-title="WZYTV",CCTV-3综艺
+http://tv.cnbeijing.xyz/tvnx.php?id=003
+#EXTINF:-1 group-title="WZYTV",CCTV-4中文国际
+http://tv.cnbeijing.xyz/tvnx.php?id=004
+#EXTINF:-1 group-title="WZYTV",CCTV-5体育
+http://tv.cnbeijing.xyz/tvnx.php?id=005
+#EXTINF:-1 group-title="WZYTV",CCTV-6电影
+http://tv.cnbeijing.xyz/tvnx.php?id=006
+#EXTINF:-1 group-title="WZYTV",CCTV-7军事农业
+http://tv.cnbeijing.xyz/tvnx.php?id=007
+#EXTINF:-1 group-title="WZYTV",CCTV-8电视剧
+http://tv.cnbeijing.xyz/tvnx.php?id=008
+#EXTINF:-1 group-title="WZYTV",CCTV-9记录
+http://tv.cnbeijing.xyz/tvnx.php?id=009
+#EXTINF:-1 group-title="WZYTV",CCTV-10科教
+http://tv.cnbeijing.xyz/tvnx.php?id=010
+#EXTINF:-1 group-title="WZYTV",CCTV-11戏曲
+http://tv.cnbeijing.xyz/tvnx.php?id=011
+#EXTINF:-1 group-title="WZYTV",CCTV-12社会与法
+http://tv.cnbeijing.xyz/tvnx.php?id=012
+#EXTINF:-1 group-title="WZYTV",CCTV-13新闻
+http://tv.cnbeijing.xyz/tvnx.php?id=013
+#EXTINF:-1 group-title="WZYTV",CCTV-14少儿
+http://tv.cnbeijing.xyz/tvnx.php?id=015
