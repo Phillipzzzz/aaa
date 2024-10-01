@@ -151,36 +151,6 @@ http://148.135.93.213:81/live/douyu/252140
 http://148.135.93.213:81/live/huya/991111
 
 
-#EXTINF:-1 ,TV8
-http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
-#EXTINF:-1 ,TVB 星河台
-http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-
-#EXTINF:-1 ,明珠台
-http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
-#EXTINF:-1 ,明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 ,翡翠华丽
-http://23.237.10.66:16410
-#EXTINF:-1 ,翡翠台
-http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8
-#EXTINF:-1 ,翡翠台
-http://23.237.10.66:16106/zhiboyuandakaTV/tvbjade7367895023.m3u8
-#EXTINF:-1 ,翡翠台
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-#EXTINF:-1 ,翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 ,TVBS
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1 ,TVBS欢乐台
-http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
-#EXTINF:-1 ,TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 ,TVBS新闻台
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 ,TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-
 
 
 
